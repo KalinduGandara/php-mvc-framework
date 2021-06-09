@@ -1,7 +1,7 @@
 <?php
 
 
-namespace app\core;
+namespace kalindugandara\phpmvc;
 
 
 abstract class Model

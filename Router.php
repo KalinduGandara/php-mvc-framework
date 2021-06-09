@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core;
+namespace kalindugandara\phpmvc;
 
-use app\core\exception\NotFoundException;
+use kalindugandara\phpmvc\exception\NotFoundException;
 
 class Router
 {

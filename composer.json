@@ -1,0 +1,15 @@
+{
+    "name": "kalindugandara/phpmvc",
+    "authors": [
+        {
+            "name": "KalinduGandara",
+            "email": "kalindugandara16@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "kalindugandara\\phpmvc\\": "."
+        }
+    }
+}

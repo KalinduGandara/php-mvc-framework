@@ -1,10 +1,10 @@
 <?php
 
 
-namespace app\core;
+namespace kalindugandara\phpmvc;
 
 
-use app\core\middlewares\BaseMiddleware;
+use kalindugandara\phpmvc\middlewares\BaseMiddleware;
 
 class Controller
 {

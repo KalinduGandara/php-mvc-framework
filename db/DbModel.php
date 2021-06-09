@@ -1,11 +1,11 @@
 <?php
 
 
-namespace app\core\db;
+namespace kalindugandara\phpmvc\db;
 
 
-use app\core\App;
-use app\core\Model;
+use kalindugandara\phpmvc\App;
+use kalindugandara\phpmvc\Model;
 
 abstract class DbModel extends Model
 {

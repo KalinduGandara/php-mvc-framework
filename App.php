@@ -1,9 +1,9 @@
 <?php
 
-namespace app\core;
+namespace kalindugandara\phpmvc;
 
-use app\core\db\Database;
-use app\core\db\DbModel;
+use kalindugandara\phpmvc\db\Database;
+use kalindugandara\phpmvc\db\DbModel;
 
 class App
 {

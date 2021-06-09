@@ -1,10 +1,10 @@
 <?php
 
 
-namespace app\core\db;
+namespace kalindugandara\phpmvc\db;
 
 
-use app\core\App;
+use kalindugandara\phpmvc\App;
 
 class Database
 {

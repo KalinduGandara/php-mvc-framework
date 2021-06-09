@@ -1,10 +1,10 @@
 <?php
 
 
-namespace app\core\form;
+namespace kalindugandara\phpmvc\form;
 
 
- use app\core\Model;
+ use kalindugandara\phpmvc\Model;
 
  abstract class BaseField
 {
